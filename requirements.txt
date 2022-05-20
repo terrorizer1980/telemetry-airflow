@@ -124,7 +124,7 @@ pycparser==2.20           # via cffi
 pydata-google-auth==1.1.0  # via pandas-gbq
 pygments==2.6.1           # via apache-airflow
 pyhive[hive]==0.6.2       # via apache-airflow
-pyjwt==1.7.1              # via flask-appbuilder, flask-jwt-extended
+pyjwt==2.4.0              # via flask-appbuilder, flask-jwt-extended
 pyopenssl==19.1.0         # via apache-airflow
 pyrsistent==0.16.0        # via jsonschema
 python-daemon==2.1.2      # via apache-airflow
