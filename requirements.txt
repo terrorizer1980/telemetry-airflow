@@ -89,7 +89,7 @@ importlib-metadata==1.6.0  # via argcomplete, jsonschema
 iso8601==0.1.12           # via apache-airflow
 itsdangerous==1.1.0       # via flask, flask-wtf
 jaydebeapi==1.2.1         # via apache-airflow
-jinja2==2.10.3            # via apache-airflow, flask, flask-babel, python-nvd3
+jinja2==2.11.3            # via apache-airflow, flask, flask-babel, python-nvd3
 jmespath==0.10.0          # via boto3, botocore
 jpype1==0.7.1             # via -r requirements.in, apache-airflow, jaydebeapi
 json-merge-patch==0.2     # via apache-airflow
@@ -135,7 +135,7 @@ python-slugify==4.0.1     # via apache-airflow, python-nvd3
 python3-openid==3.1.0     # via flask-openid
 pytz==2020.1              # via -r requirements.in, babel, celery, flask-babel, flower, google-api-core, pandas, tzlocal
 pytzdata==2019.3          # via pendulum
-pyyaml==5.3.1             # via apispec, flask-swagger, kubernetes
+pyyaml==5.4             # via apispec, flask-swagger, kubernetes
 redis==3.5.3              # via -r requirements.in
 requests-oauthlib==1.1.0  # via apache-airflow, flask-oauthlib, google-auth-oauthlib, kubernetes
 requests==2.23.0          # via -r requirements.in, apache-airflow, datadog, google-api-core, kubernetes, requests-oauthlib
