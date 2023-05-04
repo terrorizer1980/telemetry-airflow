@@ -48,7 +48,7 @@ flask-openid==1.2.5       # via flask-appbuilder
 flask-sqlalchemy==2.4.3   # via flask-appbuilder
 flask-swagger==0.2.13     # via apache-airflow
 flask-wtf==0.14.3         # via apache-airflow, flask-appbuilder
-flask==1.1.2              # via apache-airflow, flask-admin, flask-appbuilder, flask-babel, flask-bcrypt, flask-caching, flask-jwt-extended, flask-login, flask-oauthlib, flask-openid, flask-sqlalchemy, flask-swagger, flask-wtf
+flask==2.2.5              # via apache-airflow, flask-admin, flask-appbuilder, flask-babel, flask-bcrypt, flask-caching, flask-jwt-extended, flask-login, flask-oauthlib, flask-openid, flask-sqlalchemy, flask-swagger, flask-wtf
 flower==0.9.4             # via apache-airflow
 funcsigs==1.0.2           # via apache-airflow
 future==0.18.2            # via apache-airflow, pyhive
