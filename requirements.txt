@@ -122,7 +122,7 @@ pyasn1-modules==0.2.8     # via google-auth
 pyasn1==0.4.8             # via pyasn1-modules, rsa
 pycparser==2.20           # via cffi
 pydata-google-auth==1.1.0  # via pandas-gbq
-pygments==2.6.1           # via apache-airflow
+pygments==2.15.0           # via apache-airflow
 pyhive[hive]==0.6.2       # via apache-airflow
 pyjwt==1.7.1              # via flask-appbuilder, flask-jwt-extended
 pyopenssl==19.1.0         # via apache-airflow
