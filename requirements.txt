@@ -19,7 +19,7 @@ cached-property==1.5.1    # via apache-airflow
 cachetools==4.1.0         # via google-auth
 cattrs==1.0.0             # via apache-airflow
 celery==4.3.0             # via apache-airflow, flower
-certifi==2020.4.5.1       # via kubernetes, requests
+certifi==2023.7.22.1       # via kubernetes, requests
 cffi==1.14.0              # via bcrypt, cryptography
 chardet==3.0.4            # via requests
 click==7.1.2              # via flask, flask-appbuilder, hmsclient
