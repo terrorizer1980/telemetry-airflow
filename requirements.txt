@@ -52,7 +52,7 @@ flask==1.1.2              # via apache-airflow, flask-admin, flask-appbuilder, f
 flower==0.9.4             # via apache-airflow
 funcsigs==1.0.2           # via apache-airflow
 future==0.18.2            # via apache-airflow, pyhive
-gevent==20.5.2            # via apache-airflow
+gevent==23.9.0            # via apache-airflow
 google-api-core[grpc,grpcgcp]==1.17.0  # via google-api-python-client, google-cloud-bigquery, google-cloud-bigtable, google-cloud-container, google-cloud-core, google-cloud-dlp, google-cloud-language, google-cloud-secret-manager, google-cloud-spanner, google-cloud-speech, google-cloud-texttospeech, google-cloud-translate, google-cloud-videointelligence, google-cloud-vision
 google-api-python-client==1.8.4  # via apache-airflow
 google-auth-httplib2==0.0.3  # via apache-airflow, google-api-python-client
