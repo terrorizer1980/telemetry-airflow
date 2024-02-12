@@ -32,7 +32,7 @@ datadog==0.36.0           # via apache-airflow
 decorator==4.4.2          # via datadog
 defusedxml==0.6.0         # via python3-openid
 dill==0.3.1.1             # via apache-airflow
-dnspython==1.16.0         # via email-validator, eventlet
+dnspython==2.6.0rc1         # via email-validator, eventlet
 docutils==0.15.2          # via botocore, python-daemon
 email-validator==1.1.1    # via apache-airflow, flask-appbuilder
 eventlet==0.25.2          # via apache-airflow
