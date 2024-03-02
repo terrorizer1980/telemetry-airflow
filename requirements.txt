@@ -6,7 +6,7 @@
 #
 alembic==1.4.2            # via apache-airflow
 amqp==2.6.0               # via kombu
-apache-airflow[async,celery,crypto,datadog,gcp_api,github_enterprise,google_auth,hive,jdbc,kubernetes,mysql,password,postgres,s3,statsd]==1.10.12  # via -r requirements.in
+apache-airflow==2.8.2  # via -r requirements.in
 apispec[yaml]==1.3.3      # via flask-appbuilder
 argcomplete==1.11.1       # via apache-airflow
 attrs==19.3.0             # via apache-airflow, cattrs, jsonschema
