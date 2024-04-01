@@ -35,7 +35,7 @@ dill==0.3.1.1             # via apache-airflow
 dnspython==1.16.0         # via email-validator, eventlet
 docutils==0.15.2          # via botocore, python-daemon
 email-validator==1.1.1    # via apache-airflow, flask-appbuilder
-eventlet==0.25.2          # via apache-airflow
+eventlet==0.34.3          # via apache-airflow
 flask-admin==1.5.4        # via apache-airflow
 flask-appbuilder==2.3.4   # via apache-airflow
 flask-babel==1.0.0        # via flask-appbuilder
