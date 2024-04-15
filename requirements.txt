@@ -84,7 +84,7 @@ hiredis==1.0.1            # via -r requirements.in
 hmsclient==0.1.1          # via apache-airflow
 httplib2==0.18.1          # via google-api-python-client, google-auth-httplib2
 humanize==0.5.1           # via flower
-idna==2.9                 # via email-validator, requests
+idna==3.7                 # via email-validator, requests
 importlib-metadata==1.6.0  # via argcomplete, jsonschema
 iso8601==0.1.12           # via apache-airflow
 itsdangerous==1.1.0       # via flask, flask-wtf
