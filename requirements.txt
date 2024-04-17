@@ -79,7 +79,7 @@ greenlet==0.4.15          # via apache-airflow, eventlet, gevent
 grpc-google-iam-v1==0.12.3  # via google-cloud-bigtable, google-cloud-container, google-cloud-secret-manager, google-cloud-spanner
 grpcio-gcp==0.2.2         # via apache-airflow, google-api-core
 grpcio==1.29.0            # via google-api-core, googleapis-common-protos, grpc-google-iam-v1, grpcio-gcp
-gunicorn==19.10.0         # via apache-airflow
+gunicorn==22.0.0         # via apache-airflow
 hiredis==1.0.1            # via -r requirements.in
 hmsclient==0.1.1          # via apache-airflow
 httplib2==0.18.1          # via google-api-python-client, google-auth-httplib2
