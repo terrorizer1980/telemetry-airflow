@@ -119,7 +119,7 @@ protobuf==3.12.2          # via google-api-core, google-cloud-bigquery, googleap
 psutil==5.7.0             # via apache-airflow
 psycopg2-binary==2.8.5    # via apache-airflow
 pyasn1-modules==0.2.8     # via google-auth
-pyasn1==0.4.8             # via pyasn1-modules, rsa
+pyasn1==0.6.2             # via pyasn1-modules, rsa
 pycparser==2.20           # via cffi
 pydata-google-auth==1.1.0  # via pandas-gbq
 pygments==2.6.1           # via apache-airflow
